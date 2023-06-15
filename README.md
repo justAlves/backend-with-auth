@@ -45,9 +45,9 @@ Some steps need to be followed to use this template
 ### Create your repo with my template
 
 ```bash
-  gh repo create <new-repo-name> --template="<link-to-template-repo>"
+  gh repo create <new-repo-name> --template="https://github.com/justAlves/backend-with-auth"
   # OR
-  gh repo create <new-repo-name> --template="<owner/template-repo>"
+  gh repo create <new-repo-name> --template="justAlves/backend-with-auth"
 ```
 ### Install the dependecies
 
